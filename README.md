@@ -13,7 +13,6 @@
 - 🧠 Secure key derivation (PBKDF2-HMAC with custom iterations)
 - 🧱 Modern GUI powered by `customtkinter`
 - 🌗 Light & Dark mode support
-- 📂 Drag & Drop ready (planned)
 - 🛠 No installation required – portable `.exe`
 
 ---
