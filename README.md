@@ -4,7 +4,7 @@
 
 🔐 Built for privacy. Designed for simplicity.
 
-[![Download](https://img.shields.io/badge/Download-.exe-blue?style=for-the-badge&logo=windows)](https://github.com/Cr3zy-dev/CEncrypt/releases/download/v1.0.0/cencrypt.exe)
+[![Download](https://img.shields.io/badge/Download-.exe-blue?style=for-the-badge&logo=windows)](https://github.com/Cr3zy-dev/CEncrypt/releases/latest/download/cencrypt.exe)
 
 ---
 
