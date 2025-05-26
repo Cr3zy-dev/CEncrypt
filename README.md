@@ -4,6 +4,8 @@
 
 🔐 Built for privacy. Designed for simplicity.
 
+## ⬇️ [Download CEncrypt v1.0.0](https://github.com/Cr3zy-dev/CEncrypt/releases/download/v1.0.0/cencrypt.exe)
+
 ---
 
 ## 🚀 Features
