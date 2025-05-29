@@ -59,7 +59,7 @@ This project is licensed under the
 © 2025 Cr3zy. All rights reserved.  
 You may view and share the source code for **personal and educational use only**.  
 **Commercial use, redistribution, or modification is strictly prohibited.**  
-See [LICENSE.txt](LICENSE.txt) for full legal terms.
+See [LICENSE](LICENSE) for full legal terms.
 
 ---
 
