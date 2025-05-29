@@ -51,11 +51,15 @@
 
 ---
 
-## 🛑 Legal
+## 🛡 License
 
-This software is **proprietary and closed-source**.  
-Redistribution, reverse engineering, or modification is **strictly prohibited**.  
-See `LICENSE` for full legal terms.
+This project is licensed under the  
+**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.
+
+© 2025 Cr3zy. All rights reserved.  
+You may view and share the source code for **personal and educational use only**.  
+**Commercial use, redistribution, or modification is strictly prohibited.**  
+See [LICENSE.txt](LICENSE.txt) for full legal terms.
 
 ---
 
