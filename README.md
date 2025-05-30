@@ -1,6 +1,6 @@
 # CEncrypt
 
-**CEncrypt** is a secure, modern GUI tool for encrypting and decrypting folders using AES-GCM encryption.
+**CEncrypt** is a secure, open source, modern GUI tool for encrypting and decrypting folders using AES-GCM encryption.
 
 🔐 Built for privacy. Designed for simplicity.
 
